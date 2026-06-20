@@ -9,6 +9,6 @@ gem "just-the-docs", "0.12.0" # pinned to the current release
 gem "logger"
 
 # Windows-only directory watcher dependency
-platforms :mswin, :mingw, :x64_mingw, :windows do
+platforms :windows do
   gem "wdm", ">= 0.1.0"
 end
