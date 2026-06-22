@@ -10,6 +10,8 @@ How to navigate blender in a step by step tutorial, controls, pages, what things
 
 Welcome to Blender Basics!
 
+In this section, I will take you step by step in written and video format through the basics! 
+
 Take your time here and take a moment to *practice* these concepts. With practice comes muscle memory, which will allow you to create even faster!
 
 ## Basic Navigation and Movement
