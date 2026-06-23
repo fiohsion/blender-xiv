@@ -76,7 +76,7 @@ Have a foundation scene (explained in a workflow later), and add in all that you
 A few hours a day? Heck maybe even half an hour. Keep it doable, keep it consistent, set an alarm and hold yourself to that. Deadlines also help keep you pushing.
 
 6. **Find a buddy to keep you accountable**
-Both of you work on your projects simutaneously and enforce regular check-ins. Make sure you have something to present each check-in!
+Both of you work on your projects simultaneously and enforce regular check-ins. Make sure you have something to present each check-in!
 
 Now, guess what, you have a list of what you need, you have a timeline, and you have everything ready in Blender to get started. You are no longer working on vibes or motivation. 
 
